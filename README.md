@@ -1,5 +1,5 @@
 # easycontract
-Winter semester of 2021 project
+Winter semester of 2021, project at the HTW Berlin.
 
 Collaborated in a team of 8 and 1 supervisor to create a web application for StartRight (https://www.start-right.de), a student legal advisor based in Munich.
 
