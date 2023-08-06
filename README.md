@@ -8,3 +8,7 @@ The application was developed using the MERN (MongoDB, Express, React, Node.js) 
 
 ### Overview
 More information about the project, features and development process can be found here: https://showtime.f4.htw-berlin.de/ws21/bachelor/b2-easycontract/
+
+
+
+### Note: Since it was a private project, the source code is not publicly available.
